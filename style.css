@@ -1,0 +1,47 @@
+
+body {
+    font-family: sans-serif;
+    margin: 0;
+    line-height: 1.6;
+    color: #333;
+}
+
+header {
+    background: #333;
+    color: white;
+    padding: 1em 0;
+    text-align: center;
+}
+
+header nav a {
+    color: white;
+    margin: 0 1em;
+    text-decoration: none;
+}
+
+section {
+    padding: 2em;
+    border-bottom: 1px solid #ddd;
+    text-align: center;
+}
+
+#about img {
+    max-width: 200px;
+    height: auto;
+    border-radius: 50%;
+}
+
+.project-item {
+    border: 1px solid #ccc;
+    padding: 1em;
+    margin: 1em;
+    display: inline-block;
+    width: 300px;
+}
+
+footer {
+    text-align: center;
+    padding: 1em 0;
+    background: #333;
+    color: white;
+}
